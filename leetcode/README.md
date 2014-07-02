@@ -1,4 +1,0 @@
-leetcode
-========
-
-Leetcode in java
